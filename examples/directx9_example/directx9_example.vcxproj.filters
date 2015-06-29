@@ -19,6 +19,9 @@
     <ClCompile Include="imgui_impl_dx9.cpp">
       <Filter>sources</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\imconfig.h">

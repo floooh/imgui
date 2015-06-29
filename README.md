@@ -11,10 +11,11 @@ ImGui is designed to enable fast iteration and allow programmers to create "cont
 
 ImGui is particularly suited to integration in 3D applications, fullscreen applications, embedded applications, games, or any applications on consoles platforms where operating system features are non-standard. 
 
-ImGui is self-contained within 6 files that you can easily copy and compile into your application/engine:
+ImGui is self-contained within a few files that you can easily copy and compile into your application/engine:
 
   - imgui.cpp
   - imgui.h
+  - imgui_demo.cpp
   - imconfig.h (empty by default, user-editable)
   - stb_rect_pack.h
   - stb_textedit.h

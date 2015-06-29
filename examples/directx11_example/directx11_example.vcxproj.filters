@@ -29,5 +29,8 @@
     <ClCompile Include="imgui_impl_dx11.cpp">
       <Filter>sources</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

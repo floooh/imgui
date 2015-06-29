@@ -1,6 +1,6 @@
-// ImGui library v1.42
+// ImGui library v1.42 wip
 // See .cpp file for documentation.
-// See ImGui::ShowTestWindow() for sample code.
+// See ImGui::ShowTestWindow() in imgui_demo.cpp for sample code.
 // Read 'Programmer guide' in .cpp for notes on how to setup ImGui in your codebase.
 // Get latest version at https://github.com/ocornut/imgui
 
