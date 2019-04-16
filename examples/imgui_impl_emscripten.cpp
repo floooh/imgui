@@ -4,7 +4,6 @@
 
 //  TODO:
 //      - touch input
-//      - low-dpi vs high-dpi (currently always high-dpi)
 //      - clipboard?
 //      - high-dpi (device-pixel-ratio)
 
