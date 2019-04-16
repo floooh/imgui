@@ -16,7 +16,7 @@ CXX = em++
 
 EXE = example_emscripten.html
 SOURCES = main.cpp
-SOURCES += ../imgui_impl_sdl.cpp ../imgui_impl_opengl3.cpp
+SOURCES += ../imgui_impl_emscripten.cpp ../imgui_impl_opengl3.cpp
 SOURCES += ../../imgui.cpp ../../imgui_demo.cpp ../../imgui_draw.cpp ../../imgui_widgets.cpp
 OBJS = $(addsuffix .o, $(basename $(notdir $(SOURCES))))
 UNAME_S := $(shell uname -s)
